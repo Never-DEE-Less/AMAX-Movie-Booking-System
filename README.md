@@ -90,3 +90,8 @@ User passwords are hashed using the MD5 hashing algorithm before storing them in
 ## Future Enhancements
 Mention any planned enhancements or features that could be added in the future.
 
+
+## Contributors
+
+- [Basavadeepthi H M](https://github.com/Never-DEE-Less)
+- [Shiva Teja Pecheti](https://github.com/shivatejapecheti)
